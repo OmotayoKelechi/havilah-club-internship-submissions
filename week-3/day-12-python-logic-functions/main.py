@@ -3,9 +3,7 @@
 # Submit this script with a working menu system.
 
 
-# ============================================================
 # EXERCISE 1: GRADE CALCULATOR
-# ============================================================
 
 def calculate_grade(score):
 
@@ -52,9 +50,7 @@ def grade_calculator():
     print("=" * 40)
 
 
-# ============================================================
 # EXERCISE 2: MULTIPLICATION TABLE
-# ============================================================
 
 def multiplication_table():
 
@@ -81,9 +77,7 @@ def multiplication_table():
             break
 
 
-# ============================================================
 # EXERCISE 3: TEMPERATURE CONVERTER
-# ============================================================
 
 def celsius_to_fahrenheit(celsius):
 # Convert Celsius to Fahrenheit and returns the result.
@@ -110,17 +104,13 @@ def temperature_converter():
             )
 
 
-# ============================================================
 # EXERCISE 4: ERROR HANDLING
-# ============================================================
 
 # Numerical inputs throughout the program are protected
 # with try/except blocks to handle ValueError.
 
 
-# ============================================================
 # EXERCISE 5: PYTHON UTILITY MENU
-# ============================================================
 
 def main():
 
@@ -157,9 +147,7 @@ def main():
             )
 
 
-# ============================================================
 # PROGRAM START
-# ============================================================
 
 if __name__ == "__main__":
     main()
